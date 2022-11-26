@@ -1,0 +1,7 @@
+.ordered-list-roman {
+    list-style-type: upper-roman;
+}
+
+.ordered-list-letter {
+    list-style-type: upper-alpha;
+}

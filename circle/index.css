@@ -1,0 +1,21 @@
+.left-circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: red;
+    position: absolute;
+    left: 75px;
+    top: 75px;
+}
+
+
+
+.right-circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: green;
+    right: 75px;
+    top: 75px;
+    overflow: hidden;
+}
